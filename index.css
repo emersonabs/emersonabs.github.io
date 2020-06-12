@@ -1,0 +1,116 @@
+#unico{
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 5rem;
+font-style: normal;
+font-weight: 500;
+font-variant-position: unset;
+font-variant: small-caps;
+font-variant-caps: all-small-caps;
+color:#0D0D0D;
+}
+#borda{
+    background-image: url(mae.jpg);
+    border-right-width: 3cm;
+    border-right-style: solid;
+    border-right-color:#F20587;
+    border-left-width: 3cm;
+    border-left-style: solid;
+    border-left-color:#F20587;
+    margin-left: 2cm;
+    margin-right: 2cm;
+}
+.caixa{
+    margin-top: 1cm;
+    margin-left: 2cm;
+    margin-right: 2cm;
+    margin-bottom: 1cm;
+}
+.letra{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 100%;
+    font-style: normal;
+    font-weight: 100;
+    font-variant: small-caps;
+    font-variant-position: normal;
+    color: #FCFBFF;
+}
+.box{
+    background-color: #000303;
+    border-top-width: 1mm;
+    border-top-color:#F25C05 ;
+    border-top-style: solid;
+    border-bottom-width: 1mm;
+    border-bottom-color: #F25C05 ;
+    border-bottom-style:solid ;
+    border-right-width: 1mm;
+    border-right-color: #F25C05;
+    border-right-style: solid;
+    border-left-width: 1mm;
+    border-left-color:#F25C05 ;
+    border-left-style: solid;
+    margin-left: 1cm;
+    margin-right: 1cm;
+}
+.subtitulo{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 500%;
+    font-style: normal;
+    font-weight: 100;
+    font-variant: small-caps;
+    font-variant-position: normal;
+    color: #000303;
+    margin-left: 1cm;
+}
+.foto{
+    background-color: #F2B705;
+    border-top-width: 10mm;
+    border-top-color:#F20587 ;
+    border-top-style: solid;
+    border-bottom-width: 10mm;
+    border-bottom-color: #F20587 ;
+    border-bottom-style:solid ;
+    border-right-width: 10mm;
+    border-right-color: #F20587;
+    border-right-style: solid;
+    border-left-width: 10mm;
+    border-left-color:#F20587 ;
+    border-left-style: solid;
+    margin-left: 8cm;
+    margin-right: 8cm;
+}
+#foto2{
+    background-color: #F2B705;
+    border-top-width: 10mm;
+    border-top-color:#F20587 ;
+    border-top-style: solid;
+    border-bottom-width: 10mm;
+    border-bottom-color: #F20587 ;
+    border-bottom-style:solid ;
+    border-right-width: 10mm;
+    border-right-color: #F20587;
+    border-right-style: solid;
+    border-left-width: 10mm;
+    border-left-color:#F20587 ;
+    border-left-style: solid;
+    margin-left: 8cm;
+    margin-right: 8cm;
+}
+#mesa{
+    font-family: fantasy;
+    font-size: 3rem;
+    font-style: normal;
+    font-weight: 900;
+    font-variant-position: unset;
+    font-variant: small-caps;
+    font-variant-caps: all-small-caps;
+    color:#000303;
+}
+#five{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 100;
+    font-variant: small-caps;
+    font-variant-position: normal;
+    color: #FCFBFF;
+}
